@@ -31,4 +31,3 @@ class FlutterWindow : public Win32Window {
 };
 
 #endif  // RUNNER_FLUTTER_WINDOW_H_
-// chore: note 2021-02-09T17:17:24
