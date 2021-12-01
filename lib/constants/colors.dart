@@ -5,3 +5,4 @@ const kSecondaryColor = Colors.cyanAccent;
 const kBlackColor = Colors.black;
 const kGreyColor = Color.fromRGBO(237, 237, 237, 1);
 const kErrorColor = Colors.red;
+// chore: note 2021-12-01T17:35:54
