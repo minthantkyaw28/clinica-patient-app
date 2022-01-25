@@ -318,3 +318,4 @@ class MedicalRecordDetailPage extends StatelessWidget {
     );
   }
 }
+// chore: note 2022-01-25T23:38:24
