@@ -11,4 +11,3 @@ class SendPatientCredential {
 
   Map<String, dynamic> toJson() => _$SendPatientCredentialToJson(this);
 }
-// chore: note 2021-09-13T21:54:00
