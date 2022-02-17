@@ -16,4 +16,3 @@ G_DECLARE_FINAL_TYPE(MyApplication, my_application, MY, APPLICATION,
 MyApplication* my_application_new();
 
 #endif  // FLUTTER_MY_APPLICATION_H_
-// chore: note 2021-05-25T19:35:08
