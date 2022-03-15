@@ -6,3 +6,4 @@ const String kSearchByDateKey = 'pickedDate';
 const String kPatientAgeKey = 'age';
 const String kPatientAllergicHistoryKey = 'history';
 const String kPatientAllergicMedicineKey = 'medicine';
+// chore: note 2022-03-15T18:48:50
