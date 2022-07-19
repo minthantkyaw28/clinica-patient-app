@@ -53,4 +53,3 @@ class DrawerView extends StatelessWidget {
     ]));
   }
 }
-// chore: note 2021-12-27T11:37:15
