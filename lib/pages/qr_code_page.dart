@@ -134,4 +134,3 @@ class QRCodeFirstPage extends StatelessWidget {
     );
   }
 }
-// chore: note 2022-07-27T06:06:21
