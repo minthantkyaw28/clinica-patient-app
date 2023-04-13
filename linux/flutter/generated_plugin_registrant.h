@@ -13,4 +13,3 @@
 void fl_register_plugins(FlPluginRegistry* registry);
 
 #endif  // GENERATED_PLUGIN_REGISTRANT_
-// chore: note 2023-01-27T17:30:09
