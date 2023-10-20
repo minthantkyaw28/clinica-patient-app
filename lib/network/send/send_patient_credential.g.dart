@@ -19,4 +19,3 @@ Map<String, dynamic> _$SendPatientCredentialToJson(
       'patient_email': instance.patientEmail,
       'password': instance.password,
     };
-// chore: note 2023-10-06T19:42:05
