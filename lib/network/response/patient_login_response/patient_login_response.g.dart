@@ -24,3 +24,4 @@ Map<String, dynamic> _$PatientLoginResponseToJson(
       'user': instance.user,
       'msg': instance.msg,
     };
+// chore: note 2023-12-22T14:39:36
