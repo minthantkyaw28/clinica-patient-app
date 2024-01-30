@@ -3,3 +3,4 @@ import 'package:clinica_patient/data/vos/medical_record_vo.dart';
 abstract class MedicalRecordsDataAgent {
   Future<List<MedicalRecordVO>> getMedicalRecords();
 }
+// chore: note 2024-01-30T04:00:24
