@@ -63,4 +63,3 @@ std::string Utf8FromUtf16(const wchar_t* utf16_string) {
   }
   return utf8_string;
 }
-// chore: note 2024-01-25T09:59:21
