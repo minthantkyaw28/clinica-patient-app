@@ -17,4 +17,3 @@ std::string Utf8FromUtf16(const wchar_t* utf16_string);
 std::vector<std::string> GetCommandLineArguments();
 
 #endif  // RUNNER_UTILS_H_
-// chore: note 2024-01-04T08:32:01
