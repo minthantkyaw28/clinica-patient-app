@@ -66,4 +66,3 @@ class MyApp extends StatelessWidget {
             backgroundColor: kSecondaryColor));
   }
 }
-// chore: note 2024-01-02T05:21:20
