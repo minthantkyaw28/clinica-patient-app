@@ -14,3 +14,4 @@ class PatientLoginResponse {
   factory PatientLoginResponse.fromJson(Map<String, dynamic> json) =>
       _$PatientLoginResponseFromJson(json);
 }
+// chore: note 2025-08-11T18:39:30
