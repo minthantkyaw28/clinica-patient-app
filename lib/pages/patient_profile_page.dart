@@ -187,4 +187,3 @@ class ProfileInfoSessionView extends StatelessWidget {
     );
   }
 }
-// chore: note 2025-08-22T09:34:47
