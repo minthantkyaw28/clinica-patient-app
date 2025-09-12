@@ -40,4 +40,3 @@ const kFontSize50x = 50.0;
 
 //opacity
 const kOpacity = 0.6;
-// chore: note 2026-02-25T18:51:11
