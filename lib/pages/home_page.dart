@@ -280,4 +280,3 @@ class MedicalRecordLogItemView extends StatelessWidget {
     );
   }
 }
-// chore: note 2025-10-10T12:08:13
