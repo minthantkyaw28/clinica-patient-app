@@ -14,4 +14,3 @@ abstract class MedicalRecordsAPI {
       @Field(kBodyKeyForMedicalRecords) String patientId,
       @Field(kBodyKeyForPickedDate) String date);
 }
-// chore: note 2025-09-21T16:29:21
