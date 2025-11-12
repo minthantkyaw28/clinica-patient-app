@@ -12,3 +12,4 @@ class MedicalRecordModel {
   Future<List<MedicalRecordVO>> getAllRecords() =>
       _medicalRecordsDataAgent.getMedicalRecords();
 }
+// chore: note 2025-11-12T19:45:14
