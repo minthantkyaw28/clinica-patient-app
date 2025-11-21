@@ -14,4 +14,3 @@
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif
-// chore: note 2025-08-02T13:01:41
