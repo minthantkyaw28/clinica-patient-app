@@ -60,4 +60,3 @@ class PatientInfoModel {
     _patientInfoDAO.removeToken();
   }
 }
-// chore: note 2025-11-05T18:32:07
