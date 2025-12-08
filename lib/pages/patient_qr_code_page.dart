@@ -42,4 +42,3 @@ class PatientQRCode extends StatelessWidget {
     ));
   }
 }
-// chore: note 2025-11-28T08:41:25
