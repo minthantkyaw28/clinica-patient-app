@@ -71,4 +71,3 @@ class PatientInfoDAO {
   //remove data
   void removeToken() => PrefInstance.getSharedPreferences.remove(kTokenKey);
 }
-// chore: note 2025-12-01T23:27:11
