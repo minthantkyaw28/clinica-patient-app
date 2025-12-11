@@ -13,3 +13,4 @@
 void RegisterPlugins(flutter::PluginRegistry* registry);
 
 #endif  // GENERATED_PLUGIN_REGISTRANT_
+// chore: note 2025-12-11T13:37:02
