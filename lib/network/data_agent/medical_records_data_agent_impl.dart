@@ -23,4 +23,3 @@ class MedicalRecordsDataAgentImpl extends MedicalRecordsDataAgent {
       .map((event) => event)
       .first;
 }
-// chore: note 2026-01-06T20:28:43
