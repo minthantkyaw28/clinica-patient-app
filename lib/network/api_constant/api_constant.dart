@@ -9,3 +9,4 @@ const kEndPointForPatientMedicalRecordSearchByDate =
 const kAuthKey = 'Authorization';
 const kBodyKeyForMedicalRecords = 'patient_id';
 const kBodyKeyForPickedDate = 'date';
+// chore: note 2026-01-09T13:58:20
