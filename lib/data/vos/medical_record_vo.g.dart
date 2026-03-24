@@ -45,3 +45,4 @@ Map<String, dynamic> _$MedicalRecordVOToJson(MedicalRecordVO instance) =>
       'doctor_name': instance.doctorName,
       'hospital_clinic_name': instance.hospitalName,
     };
+// chore: note 2026-03-24T08:37:40
