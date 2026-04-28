@@ -52,3 +52,4 @@ Map<String, dynamic> _$PatientUserInfoResponseToJson(
       'role': instance.role,
       'patient_medical_records': instance.patientMedicalRecord,
     };
+// chore: note 2026-04-28T19:36:23
