@@ -14,4 +14,3 @@ const kViewDetailText = "View Details";
 const kGoToMedicalRecordText = "Go to Medical Records";
 const kScanNowForTreatmentText = 'Scan Now For Treatment';
 const kPatientProfileTitleText = 'Patient Profile';
-// chore: note 2026-04-22T20:04:48
